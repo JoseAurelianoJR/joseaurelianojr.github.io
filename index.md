@@ -38,7 +38,7 @@ I'm a passionate programmer by web development with over 9 years of experience s
 * Build softwares using **Delphi**, **Firebird**, **C#**, **SQL Server**.
 * Build Web applications using **PHP** and **MySQL**.
 
-## Educatiion
+## Education
 
 * Analysis and systems development in Faculdade de Tecnologia de Alagoas
 * Complete High School
