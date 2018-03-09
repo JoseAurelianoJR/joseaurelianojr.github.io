@@ -61,7 +61,8 @@ I'm a passionate programmer by web development with over 9 years of experience s
 
 ### Contact me
 
-**E-mail:** joseaurelianojr@gmail.com |
+**E-mail:** joseaurelianojr@gmail.com 
+***
 [Github](https://github.com/JoseAurelianoJR) |
 [Linkedin](https://www.linkedin.com/in/joseaurelianojr/) |
 [Download CV](https://github.com/JoseAurelianoJR/joseaurelianojr.github.io/raw/master/resume-en.pdf) | [Download Portuguese CV](https://github.com/JoseAurelianoJR/joseaurelianojr.github.io/raw/master/resume-pt-br.pdf)
