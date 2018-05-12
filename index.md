@@ -3,6 +3,9 @@
 I'm a passionate programmer by web development with over 9 years of experience since 2009 exactly, **i'm like take new challenges every time it's possible.**
 
 ## Work Experience
+**Software Engineer** at **Zen Finance SA** (April 2018 - Current)
+
+* Work on the backend of financial/credit analysis system using **Clojure**, **Datomic**, **GraphQL**, **AWS**.
 
 **Software Engineer** at **Safety System Technology** (November 2014 - October 2017)
 
@@ -66,6 +69,4 @@ I'm a passionate programmer by web development with over 9 years of experience s
 [Github](https://github.com/JoseAurelianoJR) |
 [Linkedin](https://www.linkedin.com/in/joseaurelianojr/) |
 [Download CV](https://github.com/JoseAurelianoJR/joseaurelianojr.github.io/raw/master/resume-en.pdf) | [Download Portuguese CV](https://github.com/JoseAurelianoJR/joseaurelianojr.github.io/raw/master/resume-pt-br.pdf)
-
-
 
