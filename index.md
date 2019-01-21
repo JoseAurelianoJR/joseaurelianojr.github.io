@@ -3,7 +3,11 @@
 I'm a passionate programmer by web development with over 9 years of experience since 2009 exactly, **i'm like take new challenges every time it's possible.**
 
 ## Work Experience
-**Software Engineer** at **Zen Finance SA** (April 2018 - Current)
+**Sênior Software Engineer** at **MMV Technology** (July 2018 - Current)
+
+* Work on the backend and frontend of Systems of the Court of Auditors of the State of São Paulo using **Java**, **Spring**, **Angular**, **Jenkins**.
+
+**Software Engineer** at **Zen Finance SA** (April 2018 - July 2018)
 
 * Work on the backend of financial/credit analysis system using **Clojure**, **Datomic**, **GraphQL**, **AWS**.
 
